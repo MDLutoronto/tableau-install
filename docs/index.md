@@ -19,7 +19,7 @@ Tableau Desktop is a commercial program used to create data visualizations and i
 
 1. **Go to** [**https://www.tableau.com/academic/students**](https://www.tableau.com/academic/students)  
 *Note: This guide will assume that you are a student, but instructors and researchers (even those who do not teach) have access to free copies of Tableau Desktop and Tableau Prep Builder, Tableau’s data cleaning program.* [*Here is the link for instructors and researchers*](https://www.tableau.com/academic/teaching)*. The pop up form is similar to the student one described below, but additionally asks "I plan to use Tableau Desktop for..." Under that popup, you can select "Teaching only," "Noncommercial academic research only," or both. Select the option that fits your needs best. **You do not need to be an instructor to get a copy.***
-2. **Click on*****Get Tableau for Free.***      
+2. **Click on** ***Get Tableau for Free.***      
         <img src='{{ '/assets/images/tableau_installation01.png' | relative_url }}' alt='Tableau for Students official page' title='' width='600' height='368' />       
 
 3. A web form will pop up. **Complete all of the requested information, using your official University of Toronto email address (@mail.utoronto.ca or @utoronto.ca).**   
