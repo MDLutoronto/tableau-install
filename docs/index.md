@@ -4,8 +4,11 @@ layout: "home"
 description: "NOTE: THIS GUIDE IS OUT OF DATE AS OF MARCH 11, 2025. TABLEAU IS NO LONGER PROVIDING FREE LICENSES FOR TABLEAU DESKTOP FOR STUDENTS. INSTEAD, STUDENTS SHOULD DOWNLOAD AND USE THE FREE VERSION, TABLEAU PUBLIC, WHICH IS VERY SIMILAR. This is a guide to installing and running Tableau Desktop on your personal computer."
 created_date: 2020-03-25
 staff:
-    - name: Nick Field
-      link: https://library.utoronto.ca/staff/nick-field
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
 permalink: "/"  #! Remove this if not the homepage
 ---
 
