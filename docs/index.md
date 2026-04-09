@@ -54,5 +54,3 @@ Tableau Desktop is a commercial program used to create data visualizations and i
         <img src='{{ '/assets/images/tableau_install_step11_4.png' | relative_url }}' alt='Finding where to input your Product Key' title='' width='600' height='477' />
 
 *Voila!* Remember to update Tableau as new versions come out. In a year’s time, you can use this same process to get a new license key and renew Tableau Desktop.
-
-Technique: [Installation](https://mdl.library.utoronto.ca/technique/installation) | Tools: [Tableau](https://mdl.library.utoronto.ca/tools/tableau)
