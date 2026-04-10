@@ -45,9 +45,9 @@ Tableau Desktop is a commercial program used to create data visualizations and i
 9. **Save the installer to your harddrive and follow all installation instructions.**
 10. When prompted, **paste in the license key** to activate your one year license of Tableau.
 11. If there are no prompts for the license key, you can manually input it. You can do this by first **clicking on 'Help'.**    
-        <img src='{{ '/assets/images/tableau_install_step11_1.png' | relative_url }}' alt='Finding the 'Help' button on Tableau's homepage. ' title='' width='600' height='85' />       
+        <img src='{{ '/assets/images/tableau_install_step11_1.png' | relative_url }}' alt="Finding the 'Help' button on Tableau's homepage. " title='' width='600' height='85' />       
         Following this,**please click on 'Manage Product Keys...'.**    
-        <img src='{{ '/assets/images/tableau_install_step11_2.png' | relative_url }}' alt='Finding the 'Manage Product Keys...' on Tableau's homepage.' title='' width='600' height='439' />    
+        <img src='{{ '/assets/images/tableau_install_step11_2.png' | relative_url }}' alt="Finding the 'Manage Product Keys...' on Tableau's homepage." title='' width='600' height='439' />    
         Once here, you will see the default trial key (14 day trial).  You will need to **replace this with the product key given to you in Step 7**. To do this, p**lease click on 'Activate...'.**    
         <img src='{{ '/assets/images/tableau_install_step11_3.png' | relative_url }}' alt='Finding the "Activate..." button in "Manage Product Keys..."' title='' width='600' height='182' />   
         **Proceed by clicking the first option, which is 'Activate with a product key'**. Please **copy and paste the product key that was given to you**. Upon returning to 'Manage Product Keys...' , you will see that the dates associated with License and Maintenance Expires would have updated  to a year after activation.     
